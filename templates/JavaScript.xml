@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="req" value="require(&quot;$VAR$&quot;)&#10;$END$" description="inserts require() expression" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log(&quot;$VAR$&quot;)&#10;$END$" description="inserts console.log() expression" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

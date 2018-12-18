@@ -126,12 +126,8 @@
           <option name="url" value="https://github.com/pg07codes/UPlink.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/pg07codes/CF-assignment.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/C:\Users\iampr\WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\iampr\WebstormProjects" />
   </component>
 </application>
